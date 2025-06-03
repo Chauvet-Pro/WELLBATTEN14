@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.4 - WELL Batten 14](https://github.com/Chauvet-Pro/WELLBATTEN14/raw/refs/heads/main/firmware/V1.0.4.zip)
+- Fixes the preset color issue with the RF remote
+
 [V1.0.3 - WELL Batten 14](https://github.com/Chauvet-Pro/WELLBATTEN14/blob/e336616273f9188a47228bd9f84a16d585b3ba20/firmware/V1.0.3.zip)
 - Fixes the issue that the color dial function doesn’t work when controlled with CHAUVET DJ RFC-XL
 - Fixes the issue that the color dial doesn’t work when the fixture shows no signal
